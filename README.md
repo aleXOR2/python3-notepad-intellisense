@@ -8,3 +8,7 @@ Opposite, notepad++ consumption is quite modest compared to enterprise IDEs.
 
 Results:
 the deffinition is about 3.5M long compared to standard 65K definition.
+(before.png)
+(after.png)
+
+

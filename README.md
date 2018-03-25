@@ -1,5 +1,5 @@
 # python3-notepad-intellisense
-better autocompletion for python 3 in notepad++
+better autocompletion for python 3.6 in notepad++
 
 This project aims to enhance Notepad++ with advanced autocompletion for Python 3.
 Why?

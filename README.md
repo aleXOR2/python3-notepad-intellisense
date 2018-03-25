@@ -16,7 +16,7 @@ Tested on Notepad++ 7.5.6 32 bit.
 * copy new python.xml into %NPP_FOLDER%\plugins\APIs
 
 ## Results:
-The new functions / modules / classes definition is about 3.5M long compared to standard 65K definition.
+The new functions / modules / classes definition file is more than 570% times bigger compared to default definitions file.
 ### Before:
 ![before](before.png)
 ### After:

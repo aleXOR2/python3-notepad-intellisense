@@ -10,8 +10,8 @@ Opposite, notepad++ consumption is quite modest compared to any IDE.
 
 ## Installation
 * close all instances of Notepad Plus Plus (NPP)
-* backup original python.xml in %NPP_FOLDER%\Plugines\API
-* copy new python.xml into %NPP_FOLDER%\Plugines\API
+* backup original python.xml in %NPP_FOLDER%\plugins\APIs
+* copy new python.xml into %NPP_FOLDER%\plugins\APIs
 
 ## Results:
 The new functions / modules / classes definition is about 3.5M long compared to standard 65K definition.

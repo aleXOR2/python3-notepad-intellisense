@@ -8,6 +8,8 @@ Why?
 If you work on your laptop while without power supply, you notice that popular IDE's drain too much energy.
 Opposite, notepad++ consumption is quite modest compared to any IDE.
 
+Tested on Notepad++ 7.5.6 32 bit.
+
 ## Installation
 * close all instances of Notepad Plus Plus (NPP)
 * backup original python.xml in %NPP_FOLDER%\plugins\APIs
